@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidAppFour</string>
+    <string name="img_preview">Image Preview</string>
+    <string name="xiao">Xiao</string>
+    <string name="hutao">HuTao</string>
+    <string name="thoma">Thoma</string>
+</resources>
