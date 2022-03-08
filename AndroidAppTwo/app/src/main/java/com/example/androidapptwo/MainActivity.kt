@@ -109,6 +109,7 @@ class MainActivity : AppCompatActivity() {
                """.trimIndent()
 
         text = text.toString() + "Edit Text: " + edit_text
+        text = text.toString() + edit_text
         val toast = Toast.makeText(applicationContext, text, duration)
         toast.show()
     }

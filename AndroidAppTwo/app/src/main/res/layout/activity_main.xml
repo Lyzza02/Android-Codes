@@ -120,7 +120,7 @@
         android:layout_marginBottom="132dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/etxt_msg"
+        android:hint="@string/etxt_msg"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
