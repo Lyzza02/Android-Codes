@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidAppTwo</string>
+    <string name="btn_txt">Text</string>
+    <string name="btn_txt_image">Text Image</string>
+    <string name="btn_image">Take Shot</string>
+    <string name="btn_toast">Toast</string>
+
+    <string name="cbx_fruit">Fruit</string>
+    <string name="cbx_meat">Meat</string>
+
+    <string name="rbtn_one">One</string>
+    <string name="rbtn_two">Two</string>
+    <string name="rbtn_three">Three</string>
+
+    <string name="tbtn_power">Power Button</string>
+    <string name="etxt_msg">Enter Message</string>
+</resources>
