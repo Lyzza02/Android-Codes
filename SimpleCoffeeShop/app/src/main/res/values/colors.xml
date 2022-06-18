@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="latte">#FEFFE7</color>
+    <color name="champagne">#FED2A1</color>
+    <color name="brown">#A97953</color>
+    <color name="dark_brown">#644431</color>
+    <color name="bean">#47362C</color>
+    <color name="pine_tree">#32281F</color>
 </resources>
